@@ -2,7 +2,7 @@
 
 This repository contains the python script that was used to implement the fuzzy model for screening COVID-19 patients.
 
-[**Click here**](https://github.com/marcosroriz/FUZZY-COVID-19/Fuzzy.ipnb) to access the Python script.
+[**Click here**](https://github.com/marcosroriz/FUZZY-COVID-19/blob/main/Fuzzy.ipynb) to access the Python script.
 
 ## Authors
 * Nadya Regina Galo (nadyagalo@ufg.br) 
